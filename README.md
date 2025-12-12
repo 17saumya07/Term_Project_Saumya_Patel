@@ -47,5 +47,26 @@ Random Forest achieved the best performance among all models, demonstrating supe
 
 ---
 
-## Repository Structure
+## Introduction & Business Questions
+
+This project applies predictive analytics techniques to a housing dataset to predict median house values.
+
+Business Questions:
+1. Which housing and demographic factors most strongly influence house prices?
+2. How accurately can machine learning models predict median house value?
+3. Which model performs best in terms of prediction error?
+
+
+## Limitations & Ethics
+
+This analysis is limited by dataset size and geographic scope.
+Ethical considerations include fairness, bias, and responsible model interpretation.
+
+## Conclusion
+
+This project demonstrated the effectiveness of machine learning models in predicting housing prices, with Random Forest achieving the best performance.
+
+
+
+
 
